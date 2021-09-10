@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @ samuk194
+- 👋 Hi, I'm @samuk194
 - 👀 I am interested in learning every day.
 - 🌱 I'm currently learning to be a Front End Developer.
 - 💞️ I'm looking to collaborate on freelance sites.
